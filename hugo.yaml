@@ -1,5 +1,7 @@
 theme: hugo-book
 
+title: Dominic's Page
+
 menu:
   book:
     - identifier: home
