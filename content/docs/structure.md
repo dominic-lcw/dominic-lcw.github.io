@@ -3,6 +3,8 @@ title: "Book Structure"
 weight: 2
 ---
 
+[Home](/)
+
 # Book Structure
 
 This page describes the structure of your Hugo Book.

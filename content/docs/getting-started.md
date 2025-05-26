@@ -3,6 +3,8 @@ title: "Getting Started"
 weight: 1
 ---
 
+[Home](/)
+
 # Getting Started
 
 Welcome to your Hugo Book! This is a sample page to help you get started.

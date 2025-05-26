@@ -3,6 +3,8 @@ title: "Configuration"
 weight: 3
 ---
 
+[Home](/)
+
 # Configuration
 
 You can configure your Hugo Book using the `hugo.yaml` file at the root of your project.

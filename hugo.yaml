@@ -1,1 +1,8 @@
 theme: hugo-book
+
+menu:
+  book:
+    - identifier: home
+      name: Home
+      weight: 0
+      url: /
