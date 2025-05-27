@@ -3,8 +3,6 @@ title: "Home"
 weight: 0
 ---
 
-[Home](/)
-
 # Hi, I'm Dominic Leung.
 
 I'm currently a developer focusing on web applications and data-related infrastructure.
@@ -37,4 +35,6 @@ This page serves as a personal space to share my learning journey and experience
 - Email: leungcheuk209[at]hotmail.com
 - GitHub: [https://github.com/dominic-lcw](https://github.com/dominic-lcw)
 
-![My Image](/osaka-trip.jpg)
+## Miffy
+
+![My Image](/miffy.jpg)
