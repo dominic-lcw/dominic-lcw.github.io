@@ -1,9 +1,9 @@
 ---
-title: "TIL: Statistics"
-description: "Today I Learned - Statistics"
-weight: 1
+title: "TIL: Trading"
+description: "Today I Learned - Trading"
+weight: 3
 ---
 
-# Today I Learned: Statistics
+# Today I Learned: Trading
 
-Welcome to my Statistics TILs!
+Welcome to my Trading TILs!
