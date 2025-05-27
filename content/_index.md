@@ -15,10 +15,12 @@ This page serves as a personal space to share my learning journey and experience
 
 ## Projects
 
-| Project Name   | Description                                                                                                      | Languages              |
-| -------------- | ---------------------------------------------------------------------------------------------------------------- | ---------------------- |
-| Apache/Airflow | A workflow orchestrator. Contributor on UI.                                                                      | `Python`, `TypeScript` |
-| Duckdb-Grid    | A client-side AG-Grid model connecting to DuckDB WASM. Joint work with [Julie Park](https://github.com/yeri918). | `TypeScript`, `SQL`    |
+| Project Name   | Description                                            | Languages              |
+| -------------- | ------------------------------------------------------ | ---------------------- |
+| Apache/Airflow | A workflow orchestrator. Contributor on UI.            | `Python`, `TypeScript` |
+| Duckdb-Grid    | A client-side AG-Grid model connecting to DuckDB WASM. | `TypeScript`, `SQL`    |
+
+<!-- Joint work with [Julie Park](https://github.com/yeri918).  -->
 
 ## Publications
 

@@ -3,11 +3,32 @@ title: "Kline/Candlestick Stream"
 weight: 2
 ---
 
+# Mark Price Stream
+
+Stream Name is `<symbol>@markPrice@1s`. It is defaulted to be 3s o/w 1s.
+
+## Response Example
+
+```json
+{
+  "e": "markPriceUpdate", // Event type
+  "E": 1562305380000, // Event time
+  "s": "BTCUSDT", // Symbol
+  "p": "11794.15000000", // Mark price
+  "i": "11784.62659091", // Index price
+  "P": "11784.25641265", // Estimated Settle Price, only useful in the last hour before the settlement starts
+  "r": "0.00038167", // Funding rate
+  "T": 1562306400000 // Next funding time
+}
+```
+
 # Kline/Candlestick Stream
 
 Binance provides channel for different Stream Name `<symbol>@kline_<interval>`, updated speed is `250ms`.
 
-# Response Example
+Reference: https://developers.binance.com/docs/derivatives/usds-margined-futures/websocket-market-streams/Kline-Candlestick-Streams
+
+## Response Example
 
 ```json
 {
@@ -37,7 +58,3 @@ Binance provides channel for different Stream Name `<symbol>@kline_<interval>`, 
 ```
 
 I will show `Close price` and `Base asset volume` in the stat component in my own app.
-
-# Reference
-
-https://developers.binance.com/docs/derivatives/usds-margined-futures/websocket-market-streams/Kline-Candlestick-Streams
