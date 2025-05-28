@@ -3,6 +3,8 @@ title: "Kline/Candlestick Stream"
 weight: 2
 ---
 
+_Date Created: 2025-05-27_
+
 # Mark Price Stream
 
 Stream Name is `<symbol>@markPrice@1s`. It is defaulted to be 3s o/w 1s.
